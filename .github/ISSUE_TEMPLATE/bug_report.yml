@@ -1,7 +1,7 @@
 # src: https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/
 name: Bug Report
 description: File a bug report here
-title: "[BUG]: "
+# title: "[BUG]: "
 labels: ["bug"]
 assignees: ["1stthomas"]
 body:
